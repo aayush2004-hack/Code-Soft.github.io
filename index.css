@@ -314,6 +314,15 @@ footer {
     }
     .pro_items {
         margin: 10px;
+        height: 600px;
+        width: 450px;
+    }
+    .pro_items img {
+        width: 450px;
+        height: 350px;
+        object-fit: cover;
+        border-top-right-radius: 20px;
+        border-top-left-radius:20px;
     }
     footer {
         
