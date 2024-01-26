@@ -335,7 +335,7 @@ footer {
         
     }
     #skills_head {
-        margin: 100.5px;
+        display: none;
     }
     .pro_head {
         width: 100%;
@@ -345,7 +345,9 @@ footer {
     html {
         width: 600px;
     }
+    #pic {
+        display: none;
+    }
     
     
 }
-
